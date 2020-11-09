@@ -1,0 +1,11 @@
+D:\2 курс))\ООП\lab_4\lab_4\bin\Debug\netcoreapp3.0\lab_4.exe
+D:\2 курс))\ООП\lab_4\lab_4\bin\Debug\netcoreapp3.0\lab_4.deps.json
+D:\2 курс))\ООП\lab_4\lab_4\bin\Debug\netcoreapp3.0\lab_4.runtimeconfig.json
+D:\2 курс))\ООП\lab_4\lab_4\bin\Debug\netcoreapp3.0\lab_4.runtimeconfig.dev.json
+D:\2 курс))\ООП\lab_4\lab_4\bin\Debug\netcoreapp3.0\lab_4.dll
+D:\2 курс))\ООП\lab_4\lab_4\bin\Debug\netcoreapp3.0\lab_4.pdb
+D:\2 курс))\ООП\lab_4\lab_4\obj\Debug\netcoreapp3.0\lab_4.csprojAssemblyReference.cache
+D:\2 курс))\ООП\lab_4\lab_4\obj\Debug\netcoreapp3.0\lab_4.AssemblyInfoInputs.cache
+D:\2 курс))\ООП\lab_4\lab_4\obj\Debug\netcoreapp3.0\lab_4.AssemblyInfo.cs
+D:\2 курс))\ООП\lab_4\lab_4\obj\Debug\netcoreapp3.0\lab_4.dll
+D:\2 курс))\ООП\lab_4\lab_4\obj\Debug\netcoreapp3.0\lab_4.pdb
